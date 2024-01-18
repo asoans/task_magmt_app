@@ -3,7 +3,7 @@
 
 ## Concept
 
-Develop a powerful task management app that simplifies your daily routine by allowing you to create, manage, and track tasks and to-dos efficiently. This cross-platform mobile application will come equipped with essential features such as task categorization, timely notifications, and seamless cloud synchronization.
+A simple task management app that simplifies your daily routine by allowing you to create, manage, and track tasks and to-dos efficiently. Plan was to build a cross-platform mobile application that will come equipped with essential features such as task categorization, timely notifications, and seamless cloud synchronization.
 
 ## Technologies Used
 
